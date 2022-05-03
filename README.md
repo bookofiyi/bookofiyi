@@ -3,11 +3,13 @@
 My name is Iyiola Adedeji and I am mainly a mobile app developer (I'm also a graphics designer, but more on that later 😉). I am mostly focused on Flutter.
 
 
-You can find my graphics design work here 👉 https://behance.net/iyioleadedeji
-Notable Project Mentions 👇
-Metro Merch 👉 https://behance.net/gallery/134545139/Metro-Merch
-Social Media Designs 👉 https://behance.net/gallery/136701447/Social-Media-Designs
-The Noobes -- YouTube Channel 👉 https://behance.net/gallery/124864825/The-Noobs-YouTube-Channel
+
+## Graphics Design
+You can find all my graphics design work here 👉 https://behance.net/iyioleadedeji
+- Notable Project Mentions 👇
+- Metro Merch 👉 https://behance.net/gallery/134545139/Metro-Merch
+- Social Media Designs 👉 https://behance.net/gallery/136701447/Social-Media-Designs
+- The Noobes -- YouTube Channel 👉 https://behance.net/gallery/124864825/The-Noobs-YouTube-Channel
 
 
 <!--
