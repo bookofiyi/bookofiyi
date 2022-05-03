@@ -13,7 +13,8 @@ Notable Project Mentions 👇
 - Social Media Designs: https://behance.net/gallery/136701447/Social-Media-Designs
 
 ## Product Design
-I am also currently learning about UI/UX Design and will be updating this with projects I have completed in the near future 😁
+I am also currently learning about UI/UX Design and will be updating this with projects I have completed in the near future.
+Hoping to be able to work in the game industry, creating beautiful UIs and a great UX for video games 😁
 
 <b>Thank you for your time!</b>
 
