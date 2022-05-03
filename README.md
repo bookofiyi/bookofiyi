@@ -12,6 +12,11 @@ Notable Project Mentions 👇
 - Social Media Designs 👉 https://behance.net/gallery/136701447/Social-Media-Designs
 - The Noobes -- YouTube Channel 👉 https://behance.net/gallery/124864825/The-Noobs-YouTube-Channel
 
+## Product Design
+I am also currently learning about UI/UX Design and will be updating this with projects I have completed in the near future 😁
+
+### Thank you for your time!
+
 
 <!--
 **bookofiyi/bookofiyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
