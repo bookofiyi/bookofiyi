@@ -39,7 +39,7 @@ Here are some of the stuff I've created:
 ## 🎨 Graphics Design
 You can find all my graphics design work here 👉 https://behance.net/iyioleadedeji
 
-### Notable Project Mentions 👇
+### Notable Projects 👇
 - Metro Merch: https://behance.net/gallery/134545139/Metro-Merch
 - PUBG/COD Merch (for Metro Merch): https://behance.net/gallery/108164503/PUBG-COD-Merch
 - Social Media Designs: https://behance.net/gallery/136701447/Social-Media-Designs
