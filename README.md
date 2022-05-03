@@ -15,7 +15,7 @@ Notable Project Mentions 👇
 ## Product Design
 I am also currently learning about UI/UX Design and will be updating this with projects I have completed in the near future 😁
 
-###### Thank you for your time!
+<b>Thank you for your time!</b>
 
 
 <!--
