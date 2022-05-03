@@ -9,7 +9,7 @@
 My name is Iyiola Adedeji and I am a Mobile App Developer/Visual Designer.
 
 ## 💻 Mobile App Development
-Here are some of the stuff I've created:
+Here are some of the projects I've worked on:
 
 <a href="https://github.com/bookofiyi/invoice_generator">
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=bookofiyi&repo=invoice_generator&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B30" />
