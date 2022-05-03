@@ -15,6 +15,15 @@ Here are some of the stuff I've created:
 <a href="https://github.com/bookofiyi/Compound_Interest_FLUTTER">
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=bookofiyi&repo=Compound_Interest_FLUTTER&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B30" />
 </a>
+<a href="https://github.com/bookofiyi/ALCPhase1App">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=bookofiyi&repo=ALCPhase1App&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B30" />
+</a>
+
+I'm currently working on
+
+<a href="https://github.com/bookofiyi/write_a_day">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=bookofiyi&repo=write_a_day&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B30" />
+</a>
 
 
 
