@@ -4,7 +4,7 @@
 
 # Hi there 👋
 
-My name is Iyiola Adedeji and I am mainly a mobile app developer (I'm also a graphics designer, but more on that later 😉). I am mostly focused on Flutter.
+My name is Iyiola Adedeji and I am a Mobile App Developer/Visual Designer.
 
 ## 💻 Mobile App Development
 Here are some of the stuff I've created:
