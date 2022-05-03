@@ -4,7 +4,7 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/iyiola-adedeji-522ba61a6/)
 [![Behance Badge](https://img.shields.io/badge/Behance-Profile-informational?style=for-the-badge&logo=behance&logoColor=white&color=0D76A8)](https://behance.net/iyioleadedeji)
 
-# Hi there 👋
+# Hi there 👋🏾
 
 My name is Iyiola Adedeji and I am a Mobile App Developer/Visual Designer.
 
